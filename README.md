@@ -109,6 +109,18 @@ Default: `1`
 Type: `string`<br/>
 Default: `visible`
 
+**fillMode**
+
+Type: `string`<br/>
+Default: `none`
+
+**playState**
+
+Type: `string`<br/>
+Default: `running`
+
+
+
 ## Contributing
 
 Here is the [guide](https://github.com/nitin42/animate-components/blob/master/CONTRIBUTING.md).
